@@ -5,6 +5,18 @@ Repository ini berisi reproduksi kode dan rangkuman dari buku **Practical Linear
 ## Tujuan
 Memahami konsep dasar linear algebra yang digunakan dalam machine learning melalui implementasi Python dan visualisasi.
 
+## Tools yang digunakan
+- Python
+- NumPy
+- Matplotlib
+- Google Colab
+
+## Catatan
+Setiap notebook berisi:
+- Implementasi kode
+- Penjelasan konsep
+- Visualisasi (grafik)
+
 ## Struktur Repository
 
 ### Chapter 1 – Introduction
@@ -39,15 +51,3 @@ Penyelesaian sistem linear menggunakan RREF.
 
 ## Kesimpulan
 Linear algebra merupakan dasar penting dalam machine learning, terutama dalam representasi data dan transformasi.
-
-## Tools yang digunakan
-- Python
-- NumPy
-- Matplotlib
-- Google Colab
-
-## Catatan
-Setiap notebook berisi:
-- Implementasi kode
-- Penjelasan konsep
-- Visualisasi (grafik)
