@@ -39,3 +39,15 @@ Penyelesaian sistem linear menggunakan RREF.
 
 ## Kesimpulan
 Linear algebra merupakan dasar penting dalam machine learning, terutama dalam representasi data dan transformasi.
+
+## Tools yang digunakan
+- Python
+- NumPy
+- Matplotlib
+- Google Colab
+
+## Catatan
+Setiap notebook berisi:
+- Implementasi kode
+- Penjelasan konsep
+- Visualisasi (grafik)
